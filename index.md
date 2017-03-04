@@ -1,8 +1,8 @@
-# blue
+# BLUE
 
-## methods
+### methods
 
-[weighted blue](/m/weightedblue.md)
+[Weighted BLUE](/m/blue.md)
 
 [Massey Rankings](/m/massey.md)
 
